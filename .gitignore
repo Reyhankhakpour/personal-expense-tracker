@@ -1,0 +1,18 @@
+# Qt Creator user files
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+
+# Build folders and compiled files
+build/
+cmake-build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+
+# Personal expense data
+expenses.txt
